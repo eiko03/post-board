@@ -1,4 +1,4 @@
-Example of a fullstack app using Vue.js, Express and MongoDB.
+api using  Express and MongoDB.
 
 ## Quick Start
 
